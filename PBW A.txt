@@ -1,4 +1,4 @@
-gua tipe A ada 3 nomer
+tipe A ada 3 nomer
 1. pengertian struktur kondisi, trs macem2nya apa
 2. buat array multi yg isinya nama, npm, kelas
 3. buat percabangan buat nilai skor
@@ -160,6 +160,7 @@ Dalam loop foreach, setelah menentukan kategori, program mencetak semua informas
 
 --- Kesimpulan ---
 Dengan menggunakan percabangan ini, Kita dapat mengkategorikan nilai mahasiswa ke dalam tingkatan yang lebih terstruktur. 
+
 
 
 
